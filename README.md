@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [March Madness Machine Learning](https://github.com/cshields164/march-machine-learning-mania-2024)
 
-- 🌱 I’m currently learning **Statstics, Linear Regression, Ridge Regression, and Lasso Regression**
+- 🌱 I’m currently learning **Data Engineering, SQL, Supervised & Unsupervised Learning, and Cloud Environments**
 
-- 👯 I’m looking to collaborate on [Bank Activity](https://github.com/cshields164/bank-activity)
+- 👯 I’m looking to collaborate on [Financial Fraud](https://github.com/cshields164/Financial-Fraud)
 
-- 🤝 I’m looking for help with [Shopping Behavior](https://github.com/cshields164/shopping-behavior)
+- 🤝 I’m looking for help with [March Madness Machine Learning](https://github.com/cshields164/march-machine-learning-mania-2024)
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1tTHPVM5oPDMEYdZreT1wweOK2UD95mukJzLJ62IzvKY/edit?usp=sharing](https://docs.google.com/document/d/1tTHPVM5oPDMEYdZreT1wweOK2UD95mukJzLJ62IzvKY/edit?usp=sharing)
 
