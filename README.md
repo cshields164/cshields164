@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charles Shields</h1>
 <h3 align="center">A passionate Data Scientist form New York</h3>
 
-- 🔭 I’m currently working on [Student Performance](https://github.com/cshields164/end-of-phase1-project)
+- 🔭 I’m currently working on [March Madness Machine Learning](https://github.com/cshields164/march-machine-learning-mania-2024)
 
 - 🌱 I’m currently learning **Statstics, Linear Regression, Ridge Regression, and Lasso Regression**
 
